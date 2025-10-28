@@ -5,6 +5,7 @@ const postTitle = document.getElementById('postTitle')
 const postContent = document.getElementById('postContent')
 const createPostBtn = document.getElementById('createPostBtn')
 const postsContainer = document.getElementById('postsContainer')
+const header = document.getElementById('header')
 
 
 const createPostElement = (post) => {
@@ -21,6 +22,27 @@ const createPostElement = (post) => {
 }
 
 window.addEventListener('DOMContentLoaded', () => {
+
+
+    // mouseover 
+
+    header.addEventListener('mouseover', (e) => {
+        console.log(e.target)
+        header.style.backgroundColor = 'red'
+        header.style.color = 'white'
+        console.log(e.target.tagName)
+        if(e.target.tagName === 'H1') {
+            header.style.backgroundColor = 'blue'
+            header.style.color = 'white'
+        }
+    })
+
+    header.addEventListener('mouseout', () => {
+        header.style.backgroundColor = 'white'
+        header.style.color = 'black'
+    })
+
+
     // load data from the localstorage
     let blogPost = []
 

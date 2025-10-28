@@ -43,5 +43,12 @@ https://www.youtube.com/watch?v=TqarJM5KOhA&list=PL7O32me0iMoIlc5nPd6rqEfTziGj6_
 
 
 ## Class 4 DOM manipulation
+### Resources
+1. https://www.freecodecamp.org/news/javascript-projects-for-beginners/#heading-how-to-create-seven-classic-games-with-ania-kubow-6
+### Practice task: 
+1. Update the dom blog post
+2. Weather app
+3. Calculator
+4. To do list
 
-Practice task: Update the dom blog post
+

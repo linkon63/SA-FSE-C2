@@ -40,3 +40,8 @@ http://youtube.com/watch?v=hUeAQNVynXE&list=PL7O32me0iMoIlc5nPd6rqEfTziGj6_wJ4&i
 https://www.youtube.com/watch?v=OfqRnTKlGEc&list=PL7O32me0iMoIlc5nPd6rqEfTziGj6_wJ4&index=22
 https://www.youtube.com/watch?v=rAJQ5EOJYGY&list=PL7O32me0iMoIlc5nPd6rqEfTziGj6_wJ4&index=26
 https://www.youtube.com/watch?v=TqarJM5KOhA&list=PL7O32me0iMoIlc5nPd6rqEfTziGj6_wJ4&index=50
+
+
+## Class 4 DOM manipulation
+
+Practice task: Update the dom blog post
